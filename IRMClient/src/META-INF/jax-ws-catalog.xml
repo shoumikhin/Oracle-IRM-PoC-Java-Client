@@ -1,0 +1,10 @@
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="http://ium-vbox-win2k8:16100/irm_sealing/sealing_services?wsdl#%7Bhttp%3A%2F%2Fxmlns.oracle.com%2Firm%2Fcontent%2Fwsdl%7DSealingServicesService"
+          uri="http://ium-vbox-win2k8:16100/irm_sealing/sealing_services?wsdl"/>
+  <system systemId="http://ium-vbox-win2k8:16100/irm_services/context_operations?wsdl#%7Bhttp%3A%2F%2Fxmlns.oracle.com%2Firm%2Frights%2Fwsdl%7DContextOperationsService"
+          uri="http://ium-vbox-win2k8:16100/irm_services/context_operations?wsdl"/>
+  <system systemId="http://ium-vbox-win2k8:16100/irm_services/document_right_operations?wsdl#%7Bhttp%3A%2F%2Fxmlns.oracle.com%2Firm%2Frights%2Fwsdl%7DDocumentRightOperationsService"
+          uri="http://ium-vbox-win2k8:16100/irm_services/document_right_operations?wsdl"/>
+  <system systemId="https://ium-vbox-win2k8:16101/irm_services/document_role_operations?wsdl#%7Bhttp%3A%2F%2Fxmlns.oracle.com%2Firm%2Frights%2Fwsdl%7DDocumentRoleOperationsService"
+          uri="https://ium-vbox-win2k8:16101/irm_services/document_role_operations?wsdl"/>
+</catalog>

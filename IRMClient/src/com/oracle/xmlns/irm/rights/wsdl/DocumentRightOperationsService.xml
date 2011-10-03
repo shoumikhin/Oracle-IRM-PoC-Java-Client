@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle-webservice-clients xmlns:ns2="http://java.sun.com/xml/ns/javaee">
+   <webservice-client>
+      <service-qname localpart="DocumentRightOperationsService" namespaceURI="http://xmlns.oracle.com/irm/rights/wsdl"/>
+      <port-info>
+         <wsdl-port localpart="DocumentRightOperations" namespaceURI="http://xmlns.oracle.com/irm/rights/wsdl"/>
+         <runtime/>
+         <operations>
+            <operation name="assignRole"/>
+            <operation name="reassignRole"/>
+            <operation name="checkInRightsForAccount"/>
+            <operation name="saveChangesToItems"/>
+            <operation name="unassignRights"/>
+            <operation name="listRightsByContext"/>
+            <operation name="listRightsByAccount"/>
+         </operations>
+      </port-info>
+   </webservice-client>
+</oracle-webservice-clients>

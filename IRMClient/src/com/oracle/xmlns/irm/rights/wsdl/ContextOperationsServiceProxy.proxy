@@ -1,0 +1,368 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<jdevws:WebServiceProxy xmlns:jdevws="http://xmlns.oracle.com/jdeveloper/10130/webserviceproxy">
+   <list n="CHILD_NODES">
+      <url path="ContextOperationsService.xml"/>
+      <url path="../ContextJournalSortingSortOrder.java"/>
+      <url path="../UnknownContextTemplateFault.java"/>
+      <url path="../../core/TimeRangeInterval.java"/>
+      <url path="../../core/TimePeriod.java"/>
+      <url path="../../system/package-info.java"/>
+      <url path="../../content/CryptoSchemaRef.java"/>
+      <url path="AccountAlreadyInspectorFault.java"/>
+      <url path="../../core/AccountType.java"/>
+      <url path="UnsupportedCryptoSchemaFault.java"/>
+      <url path="../../classifications/Context.java"/>
+      <url path="../Domain.java"/>
+      <url path="ContextInstanceAlreadyExistsFault.java"/>
+      <url path="../../core/ObjectFactory.java"/>
+      <url path="CreateContextFromTemplate.java"/>
+      <url path="../../core/ClassificationFilter.java"/>
+      <url path="../ContextTemplateRef.java"/>
+      <url path="../../classifications/ItemConstraintsType.java"/>
+      <url path="AddContextManagers.java"/>
+      <url path="../../classifications/ItemCode.java"/>
+      <url path="../../content/package-info.java"/>
+      <url path="../../core/LicenseCriteriaStorage.java"/>
+      <url path="SaveChangesToContextResponse.java"/>
+      <url path="../../core/LicenseCriteriaUse.java"/>
+      <url path="package-info.java"/>
+      <url path="../DomainRole.java"/>
+      <url path="../AccountAlreadyManagerFault.java"/>
+      <url path="SearchJournal.java"/>
+      <url path="../../core/package-info.java"/>
+      <url path="../../core/Feature.java"/>
+      <url path="AccountAlreadyManagerFault.java"/>
+      <url path="../UnknownDomainFault.java"/>
+      <url path="../package-info.java"/>
+      <url path="../../classifications/UnknownContextFault.java"/>
+      <url path="../DocumentRoleTimeConstraints.java"/>
+      <url path="AuthorizationDeniedFault.java"/>
+      <url path="../ContextJournalEntryStatus.java"/>
+      <url path="ContextOperationsClient.java"/>
+      <url path="ObjectFactory.java"/>
+      <url path="CreateContextFromTemplateResponse.java"/>
+      <url path="../../core/XPathExpression.java"/>
+      <url path="../../core/Device.java"/>
+      <url path="ListInspectorsResponse.java"/>
+      <url path="../AccountAlreadyInspectorFault.java"/>
+      <url path="../../system/AuthorizationDeniedFault.java"/>
+      <url path="DeleteContext.java"/>
+      <url path="../ContextTemplateStatus.java"/>
+      <url path="SearchJournalResponse.java"/>
+      <url path="AddContextManagersResponse.java"/>
+      <url path="../../content/CryptoSchema.java"/>
+      <url path="../../core/NetworkAdapter.java"/>
+      <url path="../DocumentRole.java"/>
+      <url path="AddInspectors.java"/>
+      <url path="../ContextInstanceAlreadyExistsFault.java"/>
+      <url path="../../core/FeatureUse.java"/>
+      <url path="../../core/TimeRangeDirection.java"/>
+      <url path="../ContextJournalEntry.java"/>
+      <url path="../../core/TimeRange.java"/>
+      <url path="../ContextTemplate.java"/>
+      <url path="ContextOperations.java"/>
+      <url path="RemoveContextManagers.java"/>
+      <url path="UnknownDomainFault.java"/>
+      <url path="../CannotRemoveContextInstanceFault.java"/>
+      <url path="../../core/AccountRef.java"/>
+      <url path="../../core/RelativeTimeSpan.java"/>
+      <url path="../../content/UnsupportedCryptoSchemaFault.java"/>
+      <url path="ListContextManagers.java"/>
+      <url path="../ContextInstanceRef.java"/>
+      <url path="ListContextManagersResponse.java"/>
+      <url path="../../classifications/package-info.java"/>
+      <url path="ContextOperationsService.java"/>
+      <url path="../DocumentRoleRef.java"/>
+      <url path="../ContextInstanceVisibility.java"/>
+      <url path="RemoveContextManagersResponse.java"/>
+      <url path="ListContextsResponse.java"/>
+      <url path="../../core/FeatureSupport.java"/>
+      <url path="../../core/ClassificationSystemRef.java"/>
+      <url path="../../core/TimeSpan.java"/>
+      <url path="../../content/ObjectFactory.java"/>
+      <url path="UnknownContextTemplateFault.java"/>
+      <url path="../ContextJournalSorting.java"/>
+      <url path="ListContexts.java"/>
+      <url path="RemoveInspectors.java"/>
+      <url path="../../core/Label.java"/>
+      <url path="ListInspectors.java"/>
+      <url path="../../classifications/ContextRef.java"/>
+      <url path="../ContextInstanceRole.java"/>
+      <url path="../InactiveContextTemplateFault.java"/>
+      <url path="../CannotRemoveManagersFault.java"/>
+      <url path="RemoveInspectorsResponse.java"/>
+      <url path="../../system/ObjectFactory.java"/>
+      <url path="../DocumentRoleExportConstraints.java"/>
+      <url path="../ContextInstance.java"/>
+      <url path="../ObjectFactory.java"/>
+      <url path="../../classifications/ObjectFactory.java"/>
+      <url path="../../core/PageRange.java"/>
+      <url path="../../core/XPathClassificationFilter.java"/>
+      <url path="../../core/ClassificationSystem.java"/>
+      <url path="../../core/TimeSpanReferencePoint.java"/>
+      <url path="../../core/RelativeTimeSpanTimeBase.java"/>
+      <url path="DeleteContextResponse.java"/>
+      <url path="../DomainRef.java"/>
+      <url path="SaveChangesToContext.java"/>
+      <url path="InactiveContextTemplateFault.java"/>
+      <url path="CannotRemoveContextInstanceFault.java"/>
+      <url path="../../core/AbsoluteTimeSpan.java"/>
+      <url path="../../classifications/ItemConstraints.java"/>
+      <url path="../../core/Account.java"/>
+      <url path="../ContextJournalSortingSortProperty.java"/>
+      <url path="UnknownContextFault.java"/>
+      <url path="../../core/LicenseCriteria.java"/>
+      <url path="CannotRemoveManagersFault.java"/>
+      <url path="../../core/TimePeriodUnits.java"/>
+      <url path="AddInspectorsResponse.java"/>
+      <url path="../../core/LicenseCriteriaDelivery.java"/>
+   </list>
+   <hash n="DATA_MODEL">
+      <value n="ATTACHMENT_ENCODING" v="MTOM"/>
+      <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.WebServiceProxy"/>
+      <url n="ORACLE_WEBSERVICES_XML" path="ContextOperationsService.xml"/>
+      <hash n="PROPERTY_GROUPS">
+         <hash n="WSDL_TO_JAVA_PROPERTIES">
+            <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.java.WSDLToJavaProperties"/>
+         </hash>
+      </hash>
+      <value n="PROXY_ASYNC_METHODS" v="FOR_ENABLED"/>
+      <list n="PROXY_CLIENTS">
+         <url path="ContextOperationsClient.java"/>
+      </list>
+      <value n="PROXY_MAPPING_URL"/>
+      <hash n="PROXY_PORTS">
+         <hash n="ContextOperations">
+            <value n="ACCESSES_DOC_WRAPPPED" v="true"/>
+            <value n="ACCESSES_RPC_ENCODED" v="false"/>
+            <value n="CLASS_NAME" v="com.oracle.xmlns.irm.rights.wsdl.ContextOperations"/>
+            <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyPort"/>
+            <value n="NAME" v="ContextOperations"/>
+            <hash n="OPERATIONS">
+               <hash n="AddContextManagers">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="AddInspectors">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="CreateContextFromTemplate">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="DeleteContext">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="ListContextManagers">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="ListContexts">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="ListInspectors">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="RemoveContextManagers">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="RemoveInspectors">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="SaveChangesToContext">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="SearchJournal">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+            </hash>
+            <hash n="PROPERTY_GROUPS">
+               <hash n="WS_CLIENT_POLICY">
+                  <value n="addressing"/>
+                  <list n="management"/>
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.policy.PolicyClientModel"/>
+                  <value n="mtom"/>
+                  <hash n="POLICY_OVERRIDE_PROPERTIES"/>
+                  <list n="security"/>
+                  <value n="wsrm"/>
+               </hash>
+            </hash>
+            <url n="PROXY_ORIGINAL_PORT_ENDPOINT" protocol="http" host="ium-vbox-win2k8" port="16100" path="/irm_services/context_operations"/>
+         </hash>
+      </hash>
+      <value n="PROXY_SERVICE_NAME" v="ContextOperationsService"/>
+      <value n="PROXY_SERVICE_NAMESPACE" v="http://xmlns.oracle.com/irm/rights/wsdl"/>
+      <url n="PROXY_TARGET_PROJECT" path="../../../../../../../IRMClient.jpr"/>
+      <url n="PROXY_WSDL_URL" protocol="http" host="ium-vbox-win2k8" port="16100" path="/irm_services/context_operations" query="wsdl"/>
+      <hash n="REFERENCED_WEBSERVICE">
+         <list n="BD_">
+            <hash>
+               <value n="BOUND_PORT_TYPE" v="{http://xmlns.oracle.com/irm/rights/wsdl}ContextOperations"/>
+               <value n="DEFAULT_NAME" v="false"/>
+               <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPBinding"/>
+               <value n="NAME" v="{http://xmlns.oracle.com/irm/rights/wsdl}ContextOperationsBinding"/>
+               <list n="OP_BINDINGS">
+                  <hash>
+                     <value n="BOUND_OPERATION" v="com.oracle.xmlns.irm.rights.ContextInstance.createContextFromTemplate.java.lang.String.com.oracle.xmlns.irm.rights.ContextTemplateRef.java.util.List&lt;com.oracle.xmlns.irm.core.Label>.com.oracle.xmlns.irm.rights.ContextInstanceVisibility.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="com.oracle.xmlns.irm.rights.ContextInstance.saveChangesToContext.com.oracle.xmlns.irm.rights.ContextInstance.com.oracle.xmlns.irm.rights.ContextInstance"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="void.deleteContext.com.oracle.xmlns.irm.rights.ContextInstanceRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.ContextInstance>.listContexts.com.oracle.xmlns.irm.core.PageRange"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>.listContextManagers.com.oracle.xmlns.irm.rights.ContextInstanceRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="void.addContextManagers.com.oracle.xmlns.irm.rights.ContextInstanceRef.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="void.removeContextManagers.com.oracle.xmlns.irm.rights.ContextInstanceRef.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>.listInspectors.com.oracle.xmlns.irm.rights.DomainRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="void.addInspectors.com.oracle.xmlns.irm.rights.DomainRef.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="void.removeInspectors.com.oracle.xmlns.irm.rights.DomainRef.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.ContextJournalEntry>.searchJournal.java.util.List&lt;java.lang.String>.java.util.List&lt;com.oracle.xmlns.irm.classifications.ItemCode>.com.oracle.xmlns.irm.core.TimeRange.com.oracle.xmlns.irm.core.PageRange.com.oracle.xmlns.irm.rights.ContextJournalSorting"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+               </list>
+               <hash n="PROPERTY_GROUPS"/>
+            </hash>
+         </list>
+         <list n="BINDING_FILES"/>
+         <value n="GUID" v="b5c4d203-0132-1000-8003-c0a800740946"/>
+         <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.WebServiceProxy$ProxyJavaWebService"/>
+         <list n="PO_">
+            <hash>
+               <value n="DEFAULT_NAME" v="false"/>
+               <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPPort"/>
+               <value n="NAME" v="ContextOperations"/>
+               <value n="PORT_BINDING_NAME" v="{http://xmlns.oracle.com/irm/rights/wsdl}ContextOperationsBinding"/>
+               <list n="PORT_OPS">
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="com.oracle.xmlns.irm.rights.ContextInstance.createContextFromTemplate.java.lang.String.com.oracle.xmlns.irm.rights.ContextTemplateRef.java.util.List&lt;com.oracle.xmlns.irm.core.Label>.com.oracle.xmlns.irm.rights.ContextInstanceVisibility.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="com.oracle.xmlns.irm.rights.ContextInstance.saveChangesToContext.com.oracle.xmlns.irm.rights.ContextInstance.com.oracle.xmlns.irm.rights.ContextInstance"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="void.deleteContext.com.oracle.xmlns.irm.rights.ContextInstanceRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.ContextInstance>.listContexts.com.oracle.xmlns.irm.core.PageRange"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>.listContextManagers.com.oracle.xmlns.irm.rights.ContextInstanceRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="void.addContextManagers.com.oracle.xmlns.irm.rights.ContextInstanceRef.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="void.removeContextManagers.com.oracle.xmlns.irm.rights.ContextInstanceRef.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>.listInspectors.com.oracle.xmlns.irm.rights.DomainRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="void.addInspectors.com.oracle.xmlns.irm.rights.DomainRef.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="void.removeInspectors.com.oracle.xmlns.irm.rights.DomainRef.java.util.List&lt;com.oracle.xmlns.irm.core.AccountRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.ContextJournalEntry>.searchJournal.java.util.List&lt;java.lang.String>.java.util.List&lt;com.oracle.xmlns.irm.classifications.ItemCode>.com.oracle.xmlns.irm.core.TimeRange.com.oracle.xmlns.irm.core.PageRange.com.oracle.xmlns.irm.rights.ContextJournalSorting"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+               </list>
+               <hash n="PROPERTY_GROUPS"/>
+               <url n="URL" protocol="http" host="ium-vbox-win2k8" port="16100" path="/irm_services/context_operations"/>
+            </hash>
+         </list>
+         <hash n="PROPERTY_GROUPS">
+            <hash n="WSDL_TO_JAVA_PROPERTIES">
+               <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.java.WSDLToJavaProperties"/>
+            </hash>
+         </hash>
+         <list n="PT_">
+            <hash>
+               <value n="AUTO_SERVICE_INTERFACE"/>
+               <value n="DEFAULT_NAME" v="false"/>
+               <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.java.JavaPortType"/>
+               <value n="NAME" v="{http://xmlns.oracle.com/irm/rights/wsdl}ContextOperations"/>
+               <hash n="PROPERTY_GROUPS"/>
+               <value n="PT_CLASS" v="com.oracle.xmlns.irm.rights.wsdl.ContextOperationsImpl"/>
+               <value n="PT_SERVICE_INTERFACE" v="com.oracle.xmlns.irm.rights.wsdl.ContextOperations"/>
+               <value n="PT_TOP_DOWN_GENERATED_SEI_NAME" v="com.oracle.xmlns.irm.rights.wsdl.ContextOperations"/>
+            </hash>
+         </list>
+         <url n="TARGET_PROJECT" path="../../../../../../../IRMClient.jpr"/>
+         <value n="WS_ORIG_GEN_DIRECTION" v="TOP_DOWN"/>
+         <value n="WS_TARGET_NAMESPACE" v="http://xmlns.oracle.com/irm/rights/wsdl"/>
+         <value n="WS_URI" v="ContextOperationsService"/>
+         <url n="WS_WSDL_FILE" protocol="http" host="ium-vbox-win2k8" port="16100" path="/irm_services/context_operations" query="wsdl"/>
+      </hash>
+      <value n="SERVICE_ASYNC" v="false"/>
+      <value n="WSDL_IS_LOCAL_COPY" v="false"/>
+   </hash>
+</jdevws:WebServiceProxy>

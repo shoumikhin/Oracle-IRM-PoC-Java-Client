@@ -1,0 +1,253 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<jdevws:WebServiceProxy xmlns:jdevws="http://xmlns.oracle.com/jdeveloper/10130/webserviceproxy">
+   <list n="CHILD_NODES">
+      <url path="../DocumentRoleRef.java"/>
+      <url path="../ContextInstance.java"/>
+      <url path="../../classifications/ItemConstraintsType.java"/>
+      <url path="../../core/AbsoluteTimeSpan.java"/>
+      <url path="../../core/FeatureSupport.java"/>
+      <url path="../../core/ClassificationFilter.java"/>
+      <url path="CannotRemoveDocumentRoleFault.java"/>
+      <url path="CopyRolesResponse.java"/>
+      <url path="../ContextTemplateRef.java"/>
+      <url path="../../system/ObjectFactory.java"/>
+      <url path="../../system/AuthorizationDeniedFault.java"/>
+      <url path="../../core/ClassificationSystem.java"/>
+      <url path="package-info.java"/>
+      <url path="../ContextInstanceRole.java"/>
+      <url path="../DomainRef.java"/>
+      <url path="../../core/XPathClassificationFilter.java"/>
+      <url path="../../classifications/ObjectFactory.java"/>
+      <url path="SaveNewRole.java"/>
+      <url path="../../classifications/package-info.java"/>
+      <url path="../../core/LicenseCriteria.java"/>
+      <url path="ImmutableDocumentRoleFault.java"/>
+      <url path="DocumentRoleAlreadyExistsFault.java"/>
+      <url path="../ContextInstanceVisibility.java"/>
+      <url path="../DocumentRoleTimeConstraints.java"/>
+      <url path="../../core/package-info.java"/>
+      <url path="CopyRoles.java"/>
+      <url path="ListRolesForContextResponse.java"/>
+      <url path="../../system/package-info.java"/>
+      <url path="DocumentRoleOperationsClient.java"/>
+      <url path="../../core/XPathExpression.java"/>
+      <url path="../../core/RelativeTimeSpan.java"/>
+      <url path="../../classifications/UnknownContextFault.java"/>
+      <url path="../../core/Feature.java"/>
+      <url path="../../classifications/ItemCode.java"/>
+      <url path="ListRolesForContext.java"/>
+      <url path="../../classifications/ContextRef.java"/>
+      <url path="../ImmutableDocumentRoleFault.java"/>
+      <url path="../UnknownDomainFault.java"/>
+      <url path="../../core/LicenseCriteriaDelivery.java"/>
+      <url path="InvalidFeaturesFault.java"/>
+      <url path="../InvalidFeaturesFault.java"/>
+      <url path="DocumentRoleOperations.java"/>
+      <url path="../../core/LicenseCriteriaUse.java"/>
+      <url path="../../core/LicenseCriteriaStorage.java"/>
+      <url path="InvalidTimePeriodFault.java"/>
+      <url path="UnknownContextFault.java"/>
+      <url path="../DocumentRoleAlreadyExistsFault.java"/>
+      <url path="../ContextInstanceRef.java"/>
+      <url path="ListRolesResponse.java"/>
+      <url path="../../core/RelativeTimeSpanTimeBase.java"/>
+      <url path="../InvalidTimePeriodFault.java"/>
+      <url path="../DocumentRoleExportConstraints.java"/>
+      <url path="../ContextTemplateStatus.java"/>
+      <url path="../DocumentRole.java"/>
+      <url path="../../classifications/ItemConstraints.java"/>
+      <url path="../../core/TimePeriodUnits.java"/>
+      <url path="ObjectFactory.java"/>
+      <url path="SaveChangesToRoleResponse.java"/>
+      <url path="../package-info.java"/>
+      <url path="../Domain.java"/>
+      <url path="DeleteRolesResponse.java"/>
+      <url path="../UnknownDocumentRoleFault.java"/>
+      <url path="../../core/TimeSpanReferencePoint.java"/>
+      <url path="ListRoles.java"/>
+      <url path="../CannotRemoveDocumentRoleFault.java"/>
+      <url path="UnknownDocumentRoleFault.java"/>
+      <url path="../../core/FeatureUse.java"/>
+      <url path="../../core/ObjectFactory.java"/>
+      <url path="../../core/TimeSpan.java"/>
+      <url path="../../core/Label.java"/>
+      <url path="SaveNewRoleResponse.java"/>
+      <url path="../../core/TimePeriod.java"/>
+      <url path="UnknownDomainFault.java"/>
+      <url path="AuthorizationDeniedFault.java"/>
+      <url path="../DomainRole.java"/>
+      <url path="DocumentRoleOperationsService.java"/>
+      <url path="DeleteRoles.java"/>
+      <url path="../ContextTemplate.java"/>
+      <url path="SaveChangesToRole.java"/>
+      <url path="../../classifications/Context.java"/>
+      <url path="../ObjectFactory.java"/>
+      <url path="../../core/ClassificationSystemRef.java"/>
+   </list>
+   <hash n="DATA_MODEL">
+      <value n="ATTACHMENT_ENCODING" v="MTOM"/>
+      <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.WebServiceProxy"/>
+      <hash n="PROPERTY_GROUPS">
+         <hash n="WSDL_TO_JAVA_PROPERTIES">
+            <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.java.WSDLToJavaProperties"/>
+         </hash>
+      </hash>
+      <list n="PROXY_CLIENTS">
+         <url path="DocumentRoleOperationsClient.java"/>
+      </list>
+      <value n="PROXY_MAPPING_URL"/>
+      <hash n="PROXY_PORTS">
+         <hash n="DocumentRoleOperations">
+            <value n="ACCESSES_DOC_WRAPPPED" v="true"/>
+            <value n="ACCESSES_RPC_ENCODED" v="false"/>
+            <value n="CLASS_NAME" v="com.oracle.xmlns.irm.rights.wsdl.DocumentRoleOperations"/>
+            <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyPort"/>
+            <value n="NAME" v="DocumentRoleOperations"/>
+            <hash n="OPERATIONS">
+               <hash n="CopyRoles">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="DeleteRoles">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="ListRoles">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="ListRolesForContext">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="SaveChangesToRole">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+               <hash n="SaveNewRole">
+                  <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.ProxyOperation"/>
+                  <hash n="PROPERTY_GROUPS"/>
+               </hash>
+            </hash>
+            <hash n="PROPERTY_GROUPS"/>
+            <url n="PROXY_ORIGINAL_PORT_ENDPOINT" protocol="https" host="ium-vbox-win2k8" port="16101" path="/irm_services/document_role_operations"/>
+         </hash>
+      </hash>
+      <value n="PROXY_SERVICE_NAME" v="DocumentRoleOperationsService"/>
+      <value n="PROXY_SERVICE_NAMESPACE" v="http://xmlns.oracle.com/irm/rights/wsdl"/>
+      <url n="PROXY_TARGET_PROJECT" path="../../../../../../../IRMClient.jpr"/>
+      <url n="PROXY_WSDL_URL" protocol="https" host="ium-vbox-win2k8" port="16101" path="/irm_services/document_role_operations" query="wsdl"/>
+      <hash n="REFERENCED_WEBSERVICE">
+         <list n="BD_">
+            <hash>
+               <value n="BOUND_PORT_TYPE" v="{http://xmlns.oracle.com/irm/rights/wsdl}DocumentRoleOperations"/>
+               <value n="DEFAULT_NAME" v="false"/>
+               <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPBinding"/>
+               <value n="NAME" v="{http://xmlns.oracle.com/irm/rights/wsdl}DocumentRoleOperationsBinding"/>
+               <list n="OP_BINDINGS">
+                  <hash>
+                     <value n="BOUND_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRole>.listRoles.com.oracle.xmlns.irm.rights.DomainRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRole>.listRolesForContext.com.oracle.xmlns.irm.rights.ContextInstanceRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="com.oracle.xmlns.irm.rights.DocumentRole.saveNewRole.com.oracle.xmlns.irm.rights.DomainRef.com.oracle.xmlns.irm.rights.DocumentRole"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="com.oracle.xmlns.irm.rights.DocumentRole.saveChangesToRole.com.oracle.xmlns.irm.rights.DocumentRole.com.oracle.xmlns.irm.rights.DocumentRole"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="void.deleteRoles.java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRoleRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="BOUND_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRole>.copyRoles.java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRoleRef>.com.oracle.xmlns.irm.rights.DomainRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPOperationBinding"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+               </list>
+               <hash n="PROPERTY_GROUPS"/>
+            </hash>
+         </list>
+         <list n="BINDING_FILES"/>
+         <value n="GUID" v="b7144a78-0132-1000-8004-7f0001010264"/>
+         <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.proxy.WebServiceProxy$ProxyJavaWebService"/>
+         <list n="PO_">
+            <hash>
+               <value n="DEFAULT_NAME" v="false"/>
+               <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.SOAPPort"/>
+               <value n="NAME" v="DocumentRoleOperations"/>
+               <value n="PORT_BINDING_NAME" v="{http://xmlns.oracle.com/irm/rights/wsdl}DocumentRoleOperationsBinding"/>
+               <list n="PORT_OPS">
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRole>.listRoles.com.oracle.xmlns.irm.rights.DomainRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRole>.listRolesForContext.com.oracle.xmlns.irm.rights.ContextInstanceRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="com.oracle.xmlns.irm.rights.DocumentRole.saveNewRole.com.oracle.xmlns.irm.rights.DomainRef.com.oracle.xmlns.irm.rights.DocumentRole"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="com.oracle.xmlns.irm.rights.DocumentRole.saveChangesToRole.com.oracle.xmlns.irm.rights.DocumentRole.com.oracle.xmlns.irm.rights.DocumentRole"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="void.deleteRoles.java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRoleRef>"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+                  <hash>
+                     <value n="EXPOSED_BD_OPERATION" v="java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRole>.copyRoles.java.util.List&lt;com.oracle.xmlns.irm.rights.DocumentRoleRef>.com.oracle.xmlns.irm.rights.DomainRef"/>
+                     <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.PortOperation"/>
+                     <hash n="PROPERTY_GROUPS"/>
+                  </hash>
+               </list>
+               <hash n="PROPERTY_GROUPS"/>
+               <url n="URL" protocol="https" host="ium-vbox-win2k8" port="16101" path="/irm_services/document_role_operations"/>
+            </hash>
+         </list>
+         <hash n="PROPERTY_GROUPS">
+            <hash n="WSDL_TO_JAVA_PROPERTIES">
+               <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.java.WSDLToJavaProperties"/>
+            </hash>
+         </hash>
+         <list n="PT_">
+            <hash>
+               <value n="AUTO_SERVICE_INTERFACE"/>
+               <value n="DEFAULT_NAME" v="false"/>
+               <value n="MODEL_CLASS" v="oracle.jdeveloper.webservices.model.java.JavaPortType"/>
+               <value n="NAME" v="{http://xmlns.oracle.com/irm/rights/wsdl}DocumentRoleOperations"/>
+               <hash n="PROPERTY_GROUPS"/>
+               <value n="PT_CLASS" v="com.oracle.xmlns.irm.rights.wsdl.DocumentRoleOperationsImpl"/>
+               <value n="PT_SERVICE_INTERFACE" v="com.oracle.xmlns.irm.rights.wsdl.DocumentRoleOperations"/>
+               <value n="PT_TOP_DOWN_GENERATED_SEI_NAME" v="com.oracle.xmlns.irm.rights.wsdl.DocumentRoleOperations"/>
+            </hash>
+         </list>
+         <url n="TARGET_PROJECT" path="../../../../../../../IRMClient.jpr"/>
+         <value n="WS_ORIG_GEN_DIRECTION" v="TOP_DOWN"/>
+         <value n="WS_TARGET_NAMESPACE" v="http://xmlns.oracle.com/irm/rights/wsdl"/>
+         <value n="WS_URI" v="DocumentRoleOperationsService"/>
+         <url n="WS_WSDL_FILE" protocol="https" host="ium-vbox-win2k8" port="16101" path="/irm_services/document_role_operations" query="wsdl"/>
+      </hash>
+      <value n="SERVICE_ASYNC" v="false"/>
+      <value n="WSDL_IS_LOCAL_COPY" v="false"/>
+   </hash>
+</jdevws:WebServiceProxy>

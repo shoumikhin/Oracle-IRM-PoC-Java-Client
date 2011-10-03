@@ -1,0 +1,23 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle-webservice-clients xmlns:ns2="http://java.sun.com/xml/ns/javaee">
+   <webservice-client>
+      <service-qname localpart="ContextOperationsService" namespaceURI="http://xmlns.oracle.com/irm/rights/wsdl"/>
+      <port-info>
+         <wsdl-port localpart="ContextOperations" namespaceURI="http://xmlns.oracle.com/irm/rights/wsdl"/>
+         <runtime/>
+         <operations>
+            <operation name="createContextFromTemplate"/>
+            <operation name="saveChangesToContext"/>
+            <operation name="deleteContext"/>
+            <operation name="listContexts"/>
+            <operation name="listContextManagers"/>
+            <operation name="addContextManagers"/>
+            <operation name="removeContextManagers"/>
+            <operation name="listInspectors"/>
+            <operation name="addInspectors"/>
+            <operation name="removeInspectors"/>
+            <operation name="searchJournal"/>
+         </operations>
+      </port-info>
+   </webservice-client>
+</oracle-webservice-clients>
